@@ -30,7 +30,10 @@ public class class1
 	public void method4()
 	{
 		System.out.println("class1_method4");
+		System.out.println("This line has been added from GIT 2 FOLDER");
 	}
+	
+	
 	
 	
 }
